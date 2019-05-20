@@ -1,4 +1,5 @@
 ## Voxelnet ROS Implementation 
+基于VoxelNet的激光雷达点云车辆检测及ROS实现
 ----
 VoxelNet Implementation codes from "https://github.com/qianguih/voxelnet"
 
